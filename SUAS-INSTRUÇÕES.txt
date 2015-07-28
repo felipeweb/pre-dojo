@@ -1,2 +1,4 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+Coloque aqui suas instruï¿½ï¿½es ou comentï¿½rios que ache ï¿½til/relevantes para possamos ler 
+quando estivermos avaliando a sua soluï¿½ï¿½
+
+Rodar projeto com a clase Main dele
